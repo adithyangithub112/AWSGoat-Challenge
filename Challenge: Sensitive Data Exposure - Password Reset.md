@@ -40,6 +40,9 @@ The application processes password reset/update requests by relying on client-su
 - **Confidentiality:** **High** — Attackers gain full read access to private data and cloud resources exposed to compromised accounts.
 - **Integrity:** **High** — Attackers can modify application settings, user records, and backend assets.
 - **Availability:** **High** — Legitimate users are locked out of their accounts once their credentials are changed.
+<img width="1900" height="835" alt="Screenshot 2026-08-19 095911" src="https://github.com/user-attachments/assets/65f9f6b7-4465-426b-91ed-1ff2480ea06e" />
+<img width="1916" height="854" alt="Screenshot 2026-08-19 102542" src="https://github.com/user-attachments/assets/bc6dd59c-67c1-42e3-b4db-559833244c92" />
+
 
 ### 5. Recommended Remediation
 
